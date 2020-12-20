@@ -47,5 +47,17 @@ The change is not much more than a rounding error. A few key measures declined, 
 * % Passing Overall : -0.3%
 
 ---
+### Results : School Summary
+
+Of course, a more immediate change was for Thomas High School itself. 
+
+**Original School Summary**
+![original school summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/thomas_HS_original.png)
+
+**Corrected School Summary**
+![corrected school summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/thomas_HS_corrected.png)
+
+
+---
 
 ## Summary
