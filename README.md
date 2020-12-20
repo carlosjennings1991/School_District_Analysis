@@ -14,10 +14,10 @@ This analysis reviews the differences and trends within schools, primarily looki
 
 A secondary goal was to correct for tainted data, the reading & math scores for ninth graders in Thomas High School, which had to be corrected for. 
 
+
 Code and analysis can be found [here](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb)
 
 <br />
-
 Source CSV file can be found [here](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/schools_complete.csv), and [here](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/students_complete.csv) 
 
 ---
