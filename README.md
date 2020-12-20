@@ -1,5 +1,5 @@
 # School District Analysis
-This analysis reviews the differences and trends within schools, primarily looking how different grades, school sizes, and school types perform. The screenshot below shows a school level summary of most of the data of our concern. 
+The primary goal of this analysis was to analyze school data by type (charter vs district), size, spending per pupil, and grade level. Within this overall goal, there was a need to correct for some tainted data (Thomas High School's 9th grade data) and seeing how that affected the aforementioned analyses.  
 
 ![school summary screenshot](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/school_summary_screenshot.png)
 
@@ -11,8 +11,6 @@ This analysis reviews the differences and trends within schools, primarily looki
 * How does school size affect outcome?
 * How does funding per pupil affect outcome?
 * How does each individual grade perform?
-
-A secondary goal was to correct for tainted data, the reading & math scores for ninth graders in Thomas High School, which had to be corrected for. 
 
 <br />
 Code and analysis can be found [here](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb)
@@ -71,6 +69,9 @@ The correcting Thomas High School's data did not affect the grade level averages
 ![thomas HS](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/grade_level_summary.png)
 
 The above image displays the reading scores per grade per school, corrected and uncorrected versions. For the sake of saving space I only included one example, but the same is true for similar dataframes displaying the math and overall passing data - only Thomas High School's ninth grade data is affected. 
+
+---
+### Results : Spending Summary
 
 ---
 
