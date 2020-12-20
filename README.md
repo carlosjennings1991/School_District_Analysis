@@ -32,10 +32,10 @@ Let's review the various summaries before and after they are corrected for the t
 Those 461 students comprise 4.04% of the total ninth grade population and 1.17% of the overall student body. Consequently there isn't a drastic alteration in the performance outcomes. 
 
 **Original District Summary**
-[original district summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_original.png)
+![original district summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_original.png)
 
 **Corrected District Summary**
-[corrected district summary]
+![corrected district summary]
 (https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_corrected.png)
 
 ---
