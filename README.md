@@ -5,7 +5,7 @@ This analysis reviews the differences and trends within schools, primarily looki
 
 <br />
 
-**What we want to know for the purpose of this study is the following:**
+**What we want to know for our purposes is the following:**
 
 * How does the school type affect outcome? (Charter vs District)
 * How does school size affect outcome?
