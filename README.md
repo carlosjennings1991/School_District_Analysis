@@ -1,5 +1,5 @@
 # School District Analysis
-This analysis reviews the differences and trends within schools, primarily looking how different grades, school sizes, and school types perform. 
+This analysis reviews the differences and trends within schools, primarily looking how different grades, school sizes, and school types perform. The screenshot below shows a school level summary of most of the data of our concern. 
 
 ![school summary screenshot](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/school_summary_screenshot.png)
 
