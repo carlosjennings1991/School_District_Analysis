@@ -64,5 +64,12 @@ The differences are minute until the % passing columns. Unsurprisingly, they are
 Interestingly, this error doesn't show up in the math & reading averages. This is because when compromised values are corrected to be NaN (like we did in this study), calculations within the data series run perfectly fine, and we can see that the differences are quite minute between the two. The issue comes when you are using the data series with the NaN in more complex functions that incorporate other data series, which is the case when calculating % Passing Math, % Passing Reading and % Overall Passing. 
 
 ---
+### Results : Grade Summary
 
-## Summary
+The correcting Thomas High School's data did not affect the grade level averages, as they are all self-contained data series and were not subject to the error described earlier. As you can see from the image below, the only difference between the two (left : corrected, right : uncorrected) is the ninth grade column for Thomas High School
+
+[thomas HS](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/grade_level_summary.png)
+
+---
+
+## Conclusion
