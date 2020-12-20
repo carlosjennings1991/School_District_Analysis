@@ -68,7 +68,7 @@ Interestingly, this error doesn't show up in the math & reading averages. This i
 
 The correcting Thomas High School's data did not affect the grade level averages, as they are all self-contained data series and were not subject to the error described earlier. As you can see from the image below, the only difference between the two (left : corrected, right : uncorrected) is the ninth grade column for Thomas High School
 
-[thomas HS](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/grade_level_summary.png)
+![thomas HS](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/grade_level_summary.png)
 
 ---
 
