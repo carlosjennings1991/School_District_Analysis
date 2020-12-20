@@ -26,6 +26,18 @@ and [here](https://github.com/carlosjennings1991/School_District_Analysis/blob/m
 
 ## Results
 
+Let's review the various summaries before and after they are corrected for the tainted group. It was discovered that the reading & math scores for ninth graders at Thomas High School had to be discounted. This resulted in 461 students/data points needing to be removed. 
+
+### District Summary
+Those 461 students comprise 4.04% of the total ninth grade population and 1.17% of the overall student body. Consequently there isn't a drastic alteration in the performance outcomes. 
+
+**Original District Summary**
+[original district summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_original.png)
+
+**Corrected District Summary**
+[corrected district summary]
+(https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_corrected.png)
+
 ---
 
 ## Summary
