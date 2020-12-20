@@ -75,7 +75,7 @@ The above image displays the reading scores per grade per school, corrected and 
 
 The phenomenon repeats itself with the spending per pupil summary. In this analyses, all the schools were grouped into 4 tranches based on how much they spent per pupil. Our school in question, Thomas High School, fell into the $630 - $644 tranche (or bin in coding parlance). 
 
-As you can see below, only the percentage passing math, reading and overall are affecting, all of which are a bit lower. 
+As you can see below, only the percentage passing math, reading and overall are affecting, all of which are a bit lower. Corrected version on the left, uncorrected on the right. 
 
 ![spending per pupil](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/funding_per_pupil.png)
 
