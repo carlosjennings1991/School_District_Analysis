@@ -57,6 +57,9 @@ Of course, a more immediate change was for Thomas High School itself.
 **Corrected School Summary**
 ![corrected school summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/thomas_HS_corrected.png)
 
+The above screenshots don't include labels, but the columns are "School Type", "Total Sudents", "Total School Budget", "Per Student Budget", "Average Math Score", "Average Reading Score", "% Passing Math", "% Passing Reading", and "% Overall Passing".
+
+The differences are minute until the % passing columns. Unsurprisingly, they are all about a quarter lower. This is a bit of a statistical error, because those stats should refelct the percentage of tenth, eleventh and twelth graders passing. Instead, the numerator has been corrected, but the denominator hasn't.  
 
 ---
 
