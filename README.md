@@ -59,7 +59,9 @@ Of course, a more immediate change was for Thomas High School itself.
 
 The above screenshots don't include labels, but the columns are "School Type", "Total Sudents", "Total School Budget", "Per Student Budget", "Average Math Score", "Average Reading Score", "% Passing Math", "% Passing Reading", and "% Overall Passing".
 
-The differences are minute until the % passing columns. Unsurprisingly, they are all about a quarter lower. This is a bit of a statistical error, because those stats should refelct the percentage of tenth, eleventh and twelth graders passing. Instead, the numerator has been corrected, but the denominator hasn't.  
+The differences are minute until the % passing columns. Unsurprisingly, they are all about a quarter lower. This is a bit of a statistical error, because those stats should reflect the percentage of tenth, eleventh and twelth graders passing. Instead, the numerator has been corrected, but the denominator hasn't.  
+
+Interestingly, this error doesn't show up in the math & reading averages. This is because when compromised values are corrected to be NaN (like we did in this study), calculations within the data series run perfectly fine, and we can see that the differences are quite minute between the two. The issue comes when you are using the data series with the NaN in more complex functions that incorporate other data series, which is the case when calculating % Passing Math, % Passing Reading and % Overall Passing. 
 
 ---
 
