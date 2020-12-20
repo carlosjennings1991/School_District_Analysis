@@ -28,7 +28,7 @@ and [here](https://github.com/carlosjennings1991/School_District_Analysis/blob/m
 
 Let's review the various summaries before and after they are corrected for the tainted group. It was discovered that the reading & math scores for ninth graders at Thomas High School had to be discounted. This resulted in 461 students/data points needing to be removed. 
 
-### District Summary
+### Results : District Summary
 Those 461 students comprise 4.04% of the total ninth grade population and 1.17% of the overall student body. Consequently there isn't a drastic alteration in the performance outcomes. 
 
 **Original District Summary**
@@ -39,7 +39,12 @@ Those 461 students comprise 4.04% of the total ninth grade population and 1.17% 
 **Corrected District Summary**
 ![corrected district summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_corrected.png)
 
-The change is not much more than a rounding error. 
+The change is not much more than a rounding error. A few key measures declined, indicating that the ninth grade cohort at Thomas High School was, in aggregate, marginally above average. 
+
+* Avg Math : -0.1%
+* % Passing Math : -0.2%
+* % Passing Reading : -0.1%
+* % Passing Overall : -0.3%
 
 ---
 
