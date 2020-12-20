@@ -70,6 +70,8 @@ The correcting Thomas High School's data did not affect the grade level averages
 
 ![thomas HS](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/grade_level_summary.png)
 
+The above image displays the reading scores per grade per school, corrected and uncorrected versions. For the sake of saving space I only included one example, but the same is true for similar dataframes displaying the math and overall passing data - only Thomas High School's ninth grade data is affected. 
+
 ---
 
 ## Conclusion
