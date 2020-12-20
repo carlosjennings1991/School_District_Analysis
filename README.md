@@ -82,7 +82,7 @@ As you can see below, only the percentage passing math, reading and overall are 
 ---
 ### Results : Size Summary
 
-Unsurprisingly, only the range in which Thomas High School belonged (medium sized school) was affected, and only the % Passing Math, Reading and Overall Columns. 
+Unsurprisingly, only the range in which Thomas High School belonged (medium sized school) was affected, and only the % Passing Math, Reading and Overall Columns. All of which were slightly lower. Corrected data on the left, uncorrected on the right.
 
 ![size summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/size_analysis.png)
 
