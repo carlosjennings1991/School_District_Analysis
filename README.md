@@ -37,8 +37,7 @@ Those 461 students comprise 4.04% of the total ninth grade population and 1.17% 
 <br />
 
 **Corrected District Summary**
-![corrected district summary]
-(https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_corrected.png)
+![corrected district summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_corrected.png)
 
 
 ---
