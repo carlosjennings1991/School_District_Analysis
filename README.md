@@ -95,3 +95,20 @@ In keeping with the pattern, the school type which Thomas High School belong to 
 
 ---
 ## Conclusion
+
+Correcting the tainted data didn't reveal that many surprises - it slightly shifted everything it touched a little bit downwards. Whereas previously, before we corrected the tainted data, the 9th graders at Thomas High School were every so slightly above average. 
+
+As a result the following were slightly altered: 
+
+School Type Performance:
+School Size Performance:
+Spending Per Pupil Performance:
+Overall Grade Performance: 
+
+However, there much more interesting findings that weren't directly related to the 9th grade Thomas High School issue, and they are the following: 
+
+Increasing Spending per pupil doesn't increase performance. 
+Charter School perform better. 
+Smaller School perform better. 
+There is remarkable consistency across grades. 
+
