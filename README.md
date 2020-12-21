@@ -87,5 +87,11 @@ Unsurprisingly, only the range in which Thomas High School belonged (medium size
 ![size summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/size_analysis.png)
 
 ---
+### Results : Type Summary
 
+In keeping with the pattern, the school type which Thomas High School belong to (Charter Schools) was the only type affected. With the correction, the charter schools' performance was slightly lower. Corrected version on the left, uncorrected on the right. 
+
+![type summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/type_analysis.png)
+
+---
 ## Conclusion
