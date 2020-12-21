@@ -105,10 +105,14 @@ School Size Performance:
 Spending Per Pupil Performance:
 Overall Grade Performance: 
 
+While this is unsurprising, there is one thing we could have done differently. Because we used NaN's to update the 9th grader's data, some things worked fine, and others did not. For instance average reading and math scores worked as they should have i.e they were changed slightly indicating the minute differences between the 9th graders and the other grades. 
+
+The drastic changes we saw in the % passing math, % passing reading and % passing overall stem from an improper updating of the student body. 
+
 However, there much more interesting findings that weren't directly related to the 9th grade Thomas High School issue, and they are the following: 
 
-Increasing Spending per pupil doesn't increase performance. 
-Charter School perform better. 
-Smaller School perform better. 
-There is remarkable consistency across grades. 
+* Increasing Spending per pupil doesn't increase performance. 
+* Charter Schools perform better. 
+* Smaller Schools perform better. 
+* There is remarkable consistency across grades. 
 
