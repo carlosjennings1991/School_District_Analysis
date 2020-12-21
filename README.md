@@ -109,10 +109,10 @@ While this is unsurprising, there is one thing we could have done differently. B
 
 The drastic changes we saw in the % passing math, % passing reading and % passing overall stem from an improper updating of the student body. 
 
-However, there much more interesting findings that weren't directly related to the 9th grade Thomas High School issue, and they are the following: 
+However, there were much more interesting findings that weren't directly related to the 9th grade Thomas High School issue, and they are the following: 
 
-* Increasing Spending per pupil doesn't increase performance. 
+* Increasing Spending per pupil doesn't increase performance. (counterintuitively, the reverse is true)
 * Charter Schools perform better. 
 * Smaller Schools perform better. 
-* There is remarkable consistency across grades. 
+* There is remarkable consistency across grades within schools. 
 
