@@ -1,5 +1,5 @@
 # School District Analysis
-The primary goal of this analysis was to analyze school data by type (charter vs district), size, spending per pupil, and grade level. Within this overall goal, there was a need to correct for some tainted data (Thomas High School's 9th grade data) and seeing how that affected the aforementioned analyses.  
+The primary goal of this analysis was to analyze school data by type (charter vs district), size, spending per pupil, and grade level. Within this overall goal, there was a need to correct for some tainted data (Thomas High School's 9th grade) and seeing how that affected the aforementioned analyses.  
 
 ![school summary screenshot](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/school_summary_screenshot.png)
 
@@ -27,7 +27,7 @@ and [here](https://github.com/carlosjennings1991/School_District_Analysis/blob/m
 Let's review the various summaries before and after they are corrected for the tainted group. It was discovered that the reading & math scores for ninth graders at Thomas High School had to be discounted. This resulted in 461 students/data points needing to be removed. 
 
 ### Results : District Summary
-Those 461 students comprise 4.04% of the total ninth grade population and 1.17% of the overall student body. Consequently there isn't a drastic alteration in the performance outcomes. 
+Those 461 students comprise 4.04% of the total ninth grade population and 1.17% of the overall student body. Consequently there isn't a drastic alteration in the performance outcomes when we remove the tainted data.  
 
 **Original District Summary**
 ![original district summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_original.png)
@@ -37,7 +37,7 @@ Those 461 students comprise 4.04% of the total ninth grade population and 1.17% 
 **Corrected District Summary**
 ![corrected district summary](https://github.com/carlosjennings1991/School_District_Analysis/blob/main/Resources/district_summary_corrected.png)
 
-The change is not much more than a rounding error. A few key measures declined, indicating that the ninth grade cohort at Thomas High School was, in aggregate, marginally above average. 
+The change is not much more than a rounding error. A few key measures declined, indicating that the ninth grade cohort at Thomas High School was, in aggregate, marginally above average before correction.  
 
 * Avg Math : -0.1%
 * % Passing Math : -0.2%
@@ -59,7 +59,7 @@ The above screenshots don't include labels, but the columns are "School Type", "
 
 The differences are minute until the % passing columns. Unsurprisingly, they are all about a quarter lower. This is a bit of a statistical error, because those stats should reflect the percentage of tenth, eleventh and twelth graders passing. Instead, the numerator has been corrected, but the denominator hasn't.  
 
-Interestingly, this error doesn't show up in the math & reading averages. This is because when compromised values are corrected to be NaN (like we did in this study), calculations within the data series run perfectly fine, and we can see that the differences are quite minute between the two. The issue comes when you are using the data series with the NaN in more complex functions that incorporate other data series, which is the case when calculating % Passing Math, % Passing Reading and % Overall Passing. 
+Interestingly, this error doesn't show up in the math & reading averages. This is because when the compromised values are corrected to be NaN (like we did in this study), calculations within the data series run perfectly fine, and we can see that the differences are quite minute between the two. The issue comes when you are using the data series with the NaN in more complex functions that incorporate other data series, which is the case when calculating % Passing Math, % Passing Reading and % Overall Passing. 
 
 ---
 ### Results : Grade Summary
